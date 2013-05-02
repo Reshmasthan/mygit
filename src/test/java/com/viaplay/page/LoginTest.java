@@ -63,7 +63,7 @@ public class LoginTest {
 	/**
 	 * This test log in a user and verifies that the correct user is logged in.
 	 */
-	@Test
+	/*@Test
 	public void testLogin() {
 		browser.get(RootPage.URL);
 		browser.login(user);
@@ -74,7 +74,7 @@ public class LoginTest {
 				.getAttribute("value");
 		assertEquals(user.getFirstName(), firstName);
 		assertEquals(user.getLastName(), lastName);
-	}
+	}*/
 
 	/**
 	 * This test maneuvers to all major pages on the Viaplay web site. 
