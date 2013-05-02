@@ -60,11 +60,6 @@
 			<artifactId>slf4j-log4j12</artifactId>
 			<version>1.7.5</version>
 		</dependency>
-		<dependency>
-			<groupId>com.viaplay.jcurl</groupId>
-			<artifactId>jcurl</artifactId>
-			<version>1.0</version>
-		</dependency>
 	</dependencies>
 
 	<build>
@@ -156,10 +151,4 @@
 			</plugin>
 		</plugins>
 	</build>
-	<repositories>
-		<repository>
-			<id>viaplay.jcurl</id>
-			<url>https://github.com/viaplay/jcurl</url>
-		</repository>
-  </repositories>
 </project>
