@@ -61,7 +61,7 @@
 			<version>1.7.5</version>
 		</dependency>
 		<dependency>
-			<groupId>com.viaplay.jcurl</groupId>
+			<groupId>jcurl</groupId>
 			<artifactId>jcurl</artifactId>
 			<version>1.0</version>
 		</dependency>
