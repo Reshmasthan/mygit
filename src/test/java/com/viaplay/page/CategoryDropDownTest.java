@@ -4,7 +4,7 @@ import static org.junit.Assert.*;
 import static org.junit.Assert.assertEquals;
 
 import com.viaplay.helper.Browser;
-import com.viaplay.jcurl.JCurl;
+//import com.viaplay.jcurl.JCurl;
 import com.viaplay.selector.Via;
 import org.json.JSONException;
 import org.json.*;
