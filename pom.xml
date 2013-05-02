@@ -158,8 +158,8 @@
 	</build>
 	<repositories>
 		<repository>
-			<id>viaplay</id>
-			<url>https://github.com/viaplay</url>
+			<id>viaplay.jcurl</id>
+			<url>https://github.com/viaplay/jcurl</url>
 		</repository>
   </repositories>
 </project>
